@@ -1,0 +1,11 @@
+[info]
+title=Auto-copy to clipboard on select
+desc=When text block selected, it's auto copied to clipboard, no need to press Ctrl+C (or call menu item). Don't work with multi-carets. Don't work for huge blocks (>50K).
+type=cudatext-plugin
+subdir=cuda_auto_copy
+homepage=https://github.com/CudaText-addons/cuda_auto_copy
+
+[item1]
+section=events
+events=on_caret
+
