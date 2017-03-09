@@ -1,4 +1,9 @@
 
+2017.03.09
++ options in __init__.py file, use them on Linux gtk2:
+++ TO_CLIPBOARD (copy to usual clipboard)
+++ TO_PRIMARY_SEL (copy to primary-selection on Linux gtk2)
+
 2017.03.07
 + refactored
 init
