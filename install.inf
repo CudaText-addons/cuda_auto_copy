@@ -9,3 +9,8 @@ homepage=https://github.com/CudaText-addons/cuda_auto_copy
 section=events
 events=on_caret
 
+[item100]
+section=commands
+caption=Auto-Copy to Clipboard\Config
+method=config
+menu=o
