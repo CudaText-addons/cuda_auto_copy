@@ -41,7 +41,7 @@ class Command:
         if opt.copy_to_prim:
             app_proc(PROC_SET_CLIP_ALT, s)
 
-        if len(s)>opt.max_show_len:
-            s = s[:opt.max_show_len]+'...'
-        kind = '[main/primary] ' if opt.copy_to_clp and opt.copy_to_prim else '[main] ' if opt.copy_to_clp else '[primary] ' if opt.copy_to_prim else ' '
-        msg_status(PREFIX+kind+'Copied "%s"'%s)
+        #if len(s)>opt.max_show_len:
+        #    s = s[:opt.max_show_len]+'...'
+        #kind = '[main/primary] ' if opt.copy_to_clp and opt.copy_to_prim else '[main] ' if opt.copy_to_clp else '[primary] ' if opt.copy_to_prim else ' '
+        #msg_status(PREFIX+kind+'Copied "%s"'%s)
