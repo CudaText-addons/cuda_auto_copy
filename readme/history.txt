@@ -1,4 +1,7 @@
 
+2018.12.06
+* removed statusbar msg "Copied ..."
+
 2018.06.03
 + added command in "Options / Settings-plugins" to edit config file (ini format)
 
