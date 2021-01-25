@@ -20,5 +20,5 @@ plugin has config file, to call it, use menu item in "Options / Settings-plugins
     and by other Linux editors too.)
 
 
-author: Alexey (CudaText)
+author: Alexey Torgashin (CudaText)
 license: MIT
